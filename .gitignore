@@ -1,0 +1,51 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build output
+/main
+/main.exe
+*.log
+
+# Dependency directories (for vendoring)
+vendor/
+
+# Go modules
+/go.mod.tmp
+
+# Compiled object files
+*.o
+*.a
+
+# IDE/editor/project settings
+.idea/
+.vscode/
+*.swp
+*.swo
+*.DS_Store
+*.iml
+
+# Testing output
+coverage.out
+
+# Environment files
+.env
+.env.*
+
+# Logs and debug
+*.log
+
+# Temporary files
+*.tmp
+
+# Node modules (if frontend or Swagger UI in project)
+node_modules/
+
+# Build artifacts from Makefile or scripts
+dist/
+build/
