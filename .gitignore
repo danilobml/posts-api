@@ -49,3 +49,6 @@ node_modules/
 # Build artifacts from Makefile or scripts
 dist/
 build/
+
+# Binaries
+main
