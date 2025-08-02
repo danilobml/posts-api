@@ -2,7 +2,7 @@
 
 ## This is a project to practice creating REST APIs with Gin and GORM
 
-## Tooling:
+### Tooling:
 - go
 - gin
 - GORM
